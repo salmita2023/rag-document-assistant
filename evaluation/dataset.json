@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Does getting ISO 42001 certified mean a company complies with the EU AI Act?",
+    "expected_source": "Cyberday-EU-AI-Act-and-ISO-42001.pdf",
+    "expected_pages": [4, 24]
+  },
+  {
+    "question": "Which assurance model does the AI Act follow, and which one does ISO 42001 follow?",
+    "expected_source": "Cyberday-EU-AI-Act-and-ISO-42001.pdf",
+    "expected_pages": [6]
+  },
+  {
+    "question": "Who decides how risky an AI system is under the AI Act compared with ISO 42001?",
+    "expected_source": "Cyberday-EU-AI-Act-and-ISO-42001.pdf",
+    "expected_pages": [8, 9, 10]
+  },
+  {
+    "question": "What is the difference between an AI risk assessment and an AI system impact assessment?",
+    "expected_source": "Cyberday-EU-AI-Act-and-ISO-42001.pdf",
+    "expected_pages": [9]
+  },
+  {
+    "question": "Are small businesses exempted from the obligations of the AI Act?",
+    "expected_source": "Cyberday-EU-AI-Act-and-ISO-42001.pdf",
+    "expected_pages": [11]
+  },
+  {
+    "question": "What actions can turn an importer or a deployer into the provider of a high-risk AI system?",
+    "expected_source": "Cyberday-EU-AI-Act-and-ISO-42001.pdf",
+    "expected_pages": [13, 14]
+  },
+  {
+    "question": "In which areas is an AI system considered high-risk?",
+    "expected_source": "Cyberday-EU-AI-Act-and-ISO-42001.pdf",
+    "expected_pages": [8, 14]
+  },
+  {
+    "question": "What steps must a high-risk AI system go through before it can be placed on the market?",
+    "expected_source": "Cyberday-EU-AI-Act-and-ISO-42001.pdf",
+    "expected_pages": [18]
+  },
+  {
+    "question": "How quickly must a provider report a serious incident to the authorities?",
+    "expected_source": "Cyberday-EU-AI-Act-and-ISO-42001.pdf",
+    "expected_pages": [18]
+  },
+  {
+    "question": "When do the Article 50 transparency obligations start to apply?",
+    "expected_source": "Cyberday-EU-AI-Act-and-ISO-42001.pdf",
+    "expected_pages": [19]
+  }
+]

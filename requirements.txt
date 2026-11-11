@@ -1,0 +1,10 @@
+fastapi==0.162.5
+uvicorn==0.54.0
+python-multipart==0.0.33
+google-genai==3.2.0
+qdrant-client==1.20.0
+pypdf==7.0.1
+python-dotenv==1.2.4
+streamlit==1.67.0
+requests==2.34.2
+pytest==9.2.0
